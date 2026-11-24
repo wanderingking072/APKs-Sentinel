@@ -1,3 +1,7 @@
+# IMPORTANT:
+This repository is archived. Sentinel releases are now published at https://github.com/Sentinel-Watch-OSP/sentinel-android/releases, with SHA256SUMS and a signed SHA256SUMS.asc. 
+The signing key (fingerprint 01FE E827 374C DE45 0791 DC31 1077 741E 06A8 C385) is on keyserver.ubuntu.com. Versions before 5.2.0 may no longer connect over Tor, so please update.
+
 # Sentinel APKs
 
 ### How to install:
